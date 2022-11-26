@@ -139,7 +139,7 @@ body{
 	margin: 0;
 	border-left:none;
 	cursor:pointer;
-	background:#94CB32;
+	background:#ccc;
 	font-weight: bold;
 }
 .search-bar input[type="submit"]:hover{
@@ -169,16 +169,18 @@ body{
 	font-weight: bold;
 }
 .header-top-nav ul li a:hover{
-	color:#94CB32;
+	color:#000;
 }
 .header-top-nav ul li a span{
 	color:#D70D87;
 }
 /*---top-header----*/
 .top-header{
-	background: #94CB32;
+	background: #000;
 	padding: 12px 0px;
 	margin-top: 16px;
+	
+	
 }
 .logo{
 	float:left;
@@ -194,7 +196,7 @@ body{
 	display:block;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 0.9em;
-	color: #fff;
+	color: rgb(188, 188, 188);
 	font-weight: bold;
 	padding: 10px 16px;
 	text-transform: uppercase;
@@ -203,8 +205,10 @@ body{
 	padding-right:0px;
 }
 .top-nav ul li a:hover{
-	color:#000;
+	color:#fff;
+	background-color: #000;
 }
+
 /*---content----*/
 /*  GRID OF THREE   ============================================================================= */
 .section {
@@ -234,7 +238,7 @@ body{
 .images_1_of_3 {
 	width: 33%;
 	padding: 0px 0 1.1% 0;
-	background:#92AC05;
+	background:#ccc;
 	text-align:center;
 	box-shadow: 0px 3px 10px rgb(233, 233, 233);
 }
@@ -389,7 +393,7 @@ body{
 .images_1_of_4 a{
 		font-size:0.8em;
 		font-family: 'Open Sans', sans-serif;
-        color:#94CB32;
+        color:#ccc;
 }
 .images_1_of_4 a:hover{
 	color: #575757;
@@ -462,7 +466,7 @@ body{
 .content-sidebar li a:hover{
 	background: url(../images/sepHor.png) repeat-x left bottom;
 	background-color:#eee;
-	color:#94CB32;
+	color:#000;
 }
 /*---footer---*/
 /*  GRID OF FOUR   ============================================================================= */
@@ -517,7 +521,7 @@ body{
 	font-size:0.8em;
 }
 .span_1_of_4 ul li a:hover{
-	color:#94CB32;
+	color:#ccc;
 }
 .footer-secondgrid ul{
 	margin-top:10px;
@@ -571,7 +575,7 @@ body{
 	border:none;
 	font-size: 0.8em;
 	font-family: 'Open Sans', sans-serif;
-	color:#94CB32;
+	color:#ccc;
 	font-weight:bold;
 	text-transform:uppercase;
 	cursor:pointer;
@@ -598,7 +602,7 @@ body{
 	letter-spacing: -1px;
 }
 .about h5{
-	color:#94CB32;
+	color:#ccc;
 	font-family: 'Open Sans', sans-serif;
 	font-size:0.9em;
 }

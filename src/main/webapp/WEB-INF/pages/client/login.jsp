@@ -7,7 +7,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Laptop Shop - Đăng nhập</title>
+<title>HNT Shop - Đăng nhập</title>
 <link rel="stylesheet" href="Frontend/css/login.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -21,7 +21,7 @@
 	<c:set var="contextPath" value="${pageContext.request.contextPath}" />
 	<div class="login-page">
 		<div class="form">
-		    <h2 class="form-signin-heading" style="text-align: center">LaptopShop - Đăng nhập</h2>
+		    <h2 class="form-signin-heading" style="text-align: center">HNTShop - Đăng nhập</h2>
 		    <hr>
 			<c:if test="${param.error != null}">
 				<div class="alert alert-danger">
@@ -94,8 +94,8 @@
 		</div>
 		<!-- copyright -->
 		<div class="colorlibcopy-agile">
-			<p>© 2018 All rights reserved | Design by Group 14 - Hanoi
-				University of Science and Technology</p>
+			<p>© 2022 All rights reserved | Design by Group HNT
+				</p>
 		</div>
 	</div> --%>
 	<script

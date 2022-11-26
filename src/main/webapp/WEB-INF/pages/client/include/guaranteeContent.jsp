@@ -6,57 +6,51 @@
 		<div class="col-sm-1"></div>
 		<div class="col-lg-10" class="pull-center">
 			<br>
-			<img src="Frontend/img/guarantee.jpg" alt="">
+			<img src="Frontend/img/baohanh.jpg" style="width: 200%;" alt="">
 			
 			<br><br>
 			<p>
-			Nhằm đáp ứng tốt hơn nhu cầu của khách hàng và nâng cao chất lượng dịch vụ, Công ty Máy Tính Hà Nội cung cấp cho khách hàng chương trình: “Bảo hành vàng đồng hành cùng doanh nghiệp”. Mục đích của chương trình là cung cấp thêm cho khách hàng doanh nghiệp về dịch vụ sau bán hàng nhằm đem lại nhiều lợi ích và sự yên tâm cho quý khách hàng khi sử dụng sản phẩm của Công ty Máy Tính Hà Nội.
+			        - Nhằm đáp ứng tốt hơn nhu cầu của khách hàng và nâng cao chất lượng dịch vụ, nhóm HNT cung cấp cho khách hàng chương trình: bán hàng đa dạng sản phẩm, mẫu mã thời trang, cửa hàng hiện đại, sang trọng và những dịch vụ hậu mãi không ngừng được hoàn thiện. Theo đó, HNT đã cải tiến và áp dụng Chính sách bảo hành dành cho tất cả khách hàng mua sắm tại các cửa hàng HNT trên toàn quốc  “Bảo hành vàng đồng hành cùng doanh nghiệp”. Mục đích của chương trình là cung cấp thêm cho khách hàng doanh nghiệp về dịch vụ sau bán hàng nhằm đem lại nhiều lợi ích và sự yên tâm cho quý khách hàng khi sử dụng sản phẩm. Trong trường hợp sản phẩm bị lỗi do nhà sản xuất sẽ áp dụng chính sách đổi hàng.
+			<br>
+			<br>
+	
 			
-			</p><br>
+			</p>
+			<p><i>"Nếu tôi không thể vượt trội về số lượng 
+				<br>
+				 Thì tôi sẽ vượt trội về chất lượng của mình" </i></p>
+			<br>
+	
 			<p>
 			
-			<b>1. THỜI GIAN ÁP DỤNG:</b> Từ ngày 25/7/2018
+			<b>1. THỜI GIAN ÁP DỤNG:</b> Từ ngày 11/11/2021
 			</p>
 			<br>
 			
 			<p>
 			
-			<b>2. SẢN PHẨM ÁP DỤNG:</b> Máy tính nguyên chiếc (laptop, máy tính lắp ráp, máy đồng bộ)</p>
+			<b>2. SẢN PHẨM ÁP DỤNG:</b> Các loại giày từ 9.999.000 trở lên</p>
 			<br>
 			
 			<p>
 			
-			<b>3. ĐỐI TƯỢNG ÁP DỤNG:</b>  Khách hàng dùng cuối là các doanh nghiệp, tổ chức</p>
+			<b>3. ĐỐI TƯỢNG ÁP DỤNG:</b>  Mọi khách hàng khi mua sản phẩm tại cửa hàng </p>
 			<br>
 			
 			<p>
-			<b>4. NỘI DUNG:</b>
+			<b>4. NỘI DUNG: </b> 
+				Quý khách mua sản phẩm tại HNT, sản phẩm sẽ được bảo hành miễn phí đối với các trường hợp:
+				<P> +Đổi size </P>
+				<P>+ Bung keo</P>
+				<p>+ Sứt chỉ</p>
+				<p>+ Khô keo</p>
+				<p>+ Sai mẫu giày</p>
+				
+			</p>
+			<p>
+				<b>*Lưu ý:</b> - Khi đóng gói sản phẩm bảo hành gửi về cho chúng tôi, Quý khách sẽ chịu trách nhiệm về tính toàn vẹn của sản phẩm. Chúng tôi khuyến nghị Quý khách đóng gói sản phẩm kỹ càng và bằng cách thức phù hợp để đảm bảo sản phẩm không bị ảnh hưởng xấu trong quá trình vận chuyển và/hoặc do tác nhân bên ngoài (nếu có).
 			</p>
 			<br>
-			
-			<p>
-			Khách hàng là các doanh nghiệp, tổ chức (không áp dụng cho khách hàng cá nhân) khi mua máy tính nguyên chiếc (bao gồm: laptop, máy tính lắp ráp, máy đồng bộ) tại Công Ty Máy Tính Hà Nội được tặng 1 THẺ BẢO HÀNH VÀNG trị giá 500.000 đ (bảo hành tại nơi sử dụng) cho mỗi sản phẩm.
-			</p>
-			<br>
-			<p>
-			Thẻ bảo hành Vàng (TBHV) là loại thẻ dịch vụ sửa chữa máy tính, linh kiện và các sản phẩm IT do Công ty Máy Tính Hà Nội phát hành.
-			</p>
-			<br>
-			<p>
-			Thẻ không quy đổi thành tiền và chỉ được cấp một lần cho mỗi sản phẩm. Công ty không cấp lại trong trường hợp làm mất, hỏng hoặc hết hạn thẻ.
-			</p>
-			<br>
-			<p>
-			Mỗi Thẻ BHV có thời hạn sử dụng 12 tháng kể từ ngày cấp. Trong thời hạn đó, khách hàng được sử dụng tối đa 10 lần dịch vụ/Thẻ với tất cả các sản phẩm của khách hàng.
-			</p>
-			<br>
-			<p>
-			Khách hàng có Thẻ BHV có quyền lựa chọn địa điểm Bảo hành: Tại Phòng Bảo hành Công ty, hoặc lựa chọn hình thức bảo hành tại nơi sử dụng trong vòng bán kính 20 Km tính từ địa điểm bán hàng của Công ty Máy Tính Hà Nội.
-			</p>
-			
-			
-			
-			
 			
 			
 		</div>

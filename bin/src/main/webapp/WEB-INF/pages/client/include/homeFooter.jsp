@@ -9,14 +9,14 @@
 					<p>Mang đến sự lựa chọn tốt nhất</p>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
-					<h3>Latest-News</h3>
-					<p>Bphone 3 is coming...</p>
-					<p>Bphone 3 is coming...</p>
+					<h3>Shoe-News</h3>
+					<p>New Shoe Pumma is coming...</p>
+					<p>New Shoe Pumma is coming...</p>
 				</div>
 			  	<div class="col_1_of_4 span_1_of_4">
 					<h3>Địa điểm cửa hàng</h3>
-					<p> 1000 Giải Phóng-Hai Bà Trưng-Hà Nội</p>
-					<p> 1000 Giải Phóng-Hai Bà Trưng-Hà Nội</p>
+					<p> Đồng Nai</p>
+					<p> Việt Nam</p>
 				</div> 
 				<div class="col_1_of_4 span_1_of_4 footer-lastgrid">
 					<h3>Follow Us:</h3>
@@ -32,7 +32,7 @@
 		<div class="clear"> </div>
 		<div class="wrap">
 		<div class="copy-right">
-			<p>&copy; 2018 Laptop Store. All Rights Reserved | Design by Group 14- HUST </p>
+			<p>&copy; 2022 HNT Store. All Rights Reserved | Design by Group HNT</p>
 		</div>
 		</div>
 		</div>

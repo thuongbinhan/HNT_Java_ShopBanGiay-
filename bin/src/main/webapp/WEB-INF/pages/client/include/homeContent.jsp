@@ -6,9 +6,9 @@
 					<div class="image-slider">
 						<!-- Slideshow 1 -->
 					    <ul class="rslides" id="slider1">
-					      <li><img src="Frontend/img/laptop1.jpg" alt=""></li>
-					      <li><img src="Frontend/img/laptop2.png" alt=""></li>
-					      <li><img src="Frontend/img/laptop3.png" alt=""></li>
+					      <li><img src="Frontend/img/shoebanner1.jpg" alt=""></li>
+					      <li><img src="Frontend/img/shoebanner2.jpg" alt=""></li>
+					      <li><img src="Frontend/img/shoebanner3.jpg" alt=""></li>
 					    </ul>
 						 <!-- Slideshow 2 -->
 					</div>
@@ -35,7 +35,7 @@
 		    	</div>
 		    	
 		    <div class="content-grids">
-		    	<h4>Chọn bởi LT SHOP</h4>
+		    	<h4>Chọn bởi HNT SHOP</h4>
 		    
 			</div>
 			
@@ -45,15 +45,13 @@
 		    	<div class="content-sidebar">
 		    		<h4>Danh mục</h4>
 						<ul>
-							<li><a href="#">Apple (Macbook)</a></li>
-							<li><a href="#">Asus</a></li>
-							<li><a href="#">Acer</a></li>
-							<li><a href="#">Dell</a></li>
-							<li><a href="#">HP</a></li>
-							<li><a href="#">Lenovo</a></li>
-							<li><a href="#">MSI</a></li>
-							<li><a href="#">Masstel</a></li>
-							<li><a href="#">Haier </a></li>
+							<li><a href="#">Nike</a></li>
+							<li><a href="#">Puma</a></li>
+							<li><a href="#">Balenciaga</a></li>
+							<li><a href="#">Adidas</a></li>
+							<li><a href="#">Gucci</a></li>
+							<li><a href="#">Thuê giày</a></li>
+							
 							
 						</ul>
 		    	</div>

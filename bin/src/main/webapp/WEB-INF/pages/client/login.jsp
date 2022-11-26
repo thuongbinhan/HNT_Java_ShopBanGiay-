@@ -68,8 +68,8 @@
 		</div>
 		<!-- copyright -->
 		<div class="colorlibcopy-agile">
-			<p>© 2018 All rights reserved | Design by Group 14 - Hanoi
-				University of Science and Technology</p>
+			<p>© 2022 All rights reserved | Design by Group HNT
+			</p>
 		</div>
 	</div>
 </body>

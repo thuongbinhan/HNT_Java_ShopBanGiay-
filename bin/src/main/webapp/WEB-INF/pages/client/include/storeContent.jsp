@@ -20,11 +20,11 @@
 
 
 .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
-  right: 0;  //or you can increase this
+  right: 0;   /* //or you can increase this */
 }
 
 .carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev {
-  left: 0; //or you can increase this
+  left: 0; /*/or you can increase this*/
 }
 
 </style>
@@ -51,24 +51,14 @@
 			<div class="row">
 				<div class="col-xs-3">
 					<a href="#"><img src="Frontend/img/1.png" alt="not found img" class="img-reponsive img-resize"></a>
-				 	<div class="carousel-caption">DELL VOSTRO 5480 </div>
-				 	<h4>Giá: 15.000.000 đ</h4>
-					<h4> Màn hình:</h4>
-					<h4>CPU:</h4>
-					<h4>RAM:</h4>
-					<h4>Hệ điều hành:</h4>
-					<h4>Nặng:</h4>
+				 	<div class="carousel-caption"> </div>
+			
 				</div>
 			
 				<div class="col-xs-3">
 					<a href="#"><img src="Frontend/img/1.png" alt="not found img" class="img-reponsive img-resize"></a>
-				 	<div class="carousel-caption">DELL VOSTRO 5480 </div>
-				 	<h4>Giá: 16.000.000 đ</h4>
-					<h4> Màn hình:</h4>
-					<h4>CPU:</h4>
-					<h4>RAM:</h4>
-					<h4>Hệ điều hành:</h4>
-					<h4>Nặng:</h4>
+				 	<div class="carousel-caption"> </div>
+			
 					
 				</div>
 				

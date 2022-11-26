@@ -5,7 +5,7 @@
 </head>
 	<script type="text/javascript">	  
 	$(document).ready(function() { 
-	  	var priceConvert = accounting.formatMoney(${sp.getDonGia()})+' VND';
+	  	var priceConvert = accounting.formatMoney($sp.getDonGia())+' VND';
 		document.getElementById("priceConvert").innerHTML= priceConvert;
 		  
 	  });
